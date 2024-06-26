@@ -1,4 +1,4 @@
-![Descricao da sua imagem](./thumbnail.png)
+
 
 # Indexa
 
